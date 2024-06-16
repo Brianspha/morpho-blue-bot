@@ -37,7 +37,7 @@ The protocol is designed to be more efficient and flexible than any other decent
 
 This repository contains a POC implementation of how liquidations could be executed on any given market. The diagram below provides an overview of how the different components within the bot interact.
 
-![Overview](./diagrams/1.png)
+![Overview](./diagrams/1.svg)
 
 The bot uses three key components:
 
