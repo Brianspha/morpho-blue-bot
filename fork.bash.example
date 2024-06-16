@@ -1,0 +1,1 @@
+anvil  --port 8546 --fork-url RPCB --fork-block-number 50643503  --fork-chain-id 1338  --no-rate-limit --mnemonic  "claw aware right regular security second any useless turkey agent eagle announce"

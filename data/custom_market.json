@@ -1,0 +1,54 @@
+[
+  {
+    "uniqueKey": "0xff8f88210d07997346e18c58f07ad4c4859a66f4a0185595122a7f81f561e234",
+    "lltv": "770000000000000000",
+    "oracleAddress": "0xc194D02d57d9702a684ce0040aAdce2f5854D15A",
+    "irmAddress": "0x0000000000000000000000000000000000000000",
+    "loanAsset": {
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "symbol": "weETH",
+      "decimals": 18
+    },
+    "collateralAsset": {
+      "address": "0x67C2A8aC5dcDE1b91299261fE16022b43d9DF69F",
+      "symbol": "MT",
+      "decimals": 18
+    },
+    "state": {
+      "borrowApy": 0,
+      "borrowAssets": 0,
+      "borrowAssetsUsd": 0,
+      "supplyApy": 0,
+      "supplyAssets": 0,
+      "supplyAssetsUsd": 0,
+      "fee": 0,
+      "utilization": 0
+    }
+  },
+  {
+    "uniqueKey": "0xff8f88210d07997346e18c58f07ad4c4859a66f4a0185595122a7f81f561e234",
+    "lltv": "770000000000000000",
+    "oracleAddress": "0xc194D02d57d9702a684ce0040aAdce2f5854D15A",
+    "irmAddress": "0x0000000000000000000000000000000000000000",
+    "loanAsset": {
+      "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+      "symbol": "weETH",
+      "decimals": 18
+    },
+    "collateralAsset": {
+      "address": "0x67C2A8aC5dcDE1b91299261fE16022b43d9DF69F",
+      "symbol": "MT",
+      "decimals": 18
+    },
+    "state": {
+      "borrowApy": 0,
+      "borrowAssets": 0,
+      "borrowAssetsUsd": 0,
+      "supplyApy": 0,
+      "supplyAssets": 0,
+      "supplyAssetsUsd": 0,
+      "fee": 0,
+      "utilization": 0
+    }
+  },
+]

@@ -1,0 +1,5 @@
+@morpho-blue/=node_modules/@morpho-org/morpho-blue/src/
+ds-test/=node_modules/ds-test/src/
+forge-std/=node_modules/forge-std/src
+@solmate/=node_modules/solmate/src/
+@openzeppelin/=node_modules/@openzeppelin/

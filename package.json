@@ -1,0 +1,21 @@
+{
+  "name": "morpho_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@morpho-org/morpho-blue": "^1.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "solmate": "^6.2.0"
+  },
+  "devDependencies": {
+    "ds-test": "https://github.com/dapphub/ds-test",
+    "forge-std": "github:foundry-rs/forge-std#v1.7.6"
+  },
+  "scripts": {
+    "test":"forge clean;forge test -vvvvv --via-ir",
+    "deploy:local": "forge clean; forge script ./script/Liquidator.s.sol:LiquidatorScript --rpc-url http://localhost:8545 --broadcast -vvvvvv --via-ir"
+  }
+}
+
+
