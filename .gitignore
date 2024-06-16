@@ -54,5 +54,5 @@ out.json
 .vscode
 bloat*
 
-*fork.bash
+./fork.bash
 venv
